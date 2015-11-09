@@ -1,0 +1,24 @@
+h1 {
+    background-image: url(../images/logo.PNG);
+    background-repeat: no-repeat;
+    text-indent: 350px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+#navBar{
+  /*float: none;*/
+  width: auto;
+  
+}
+ #navBar ul{
+  text-align: center;
+}
+#navBar  ul  li{
+   display: inline;
+   padding-top: 0;
+   padding-bottom: 0;
+   padding-right: 0.75em;
+   padding-left: 0.75em;
+  }
